@@ -1,5 +1,21 @@
 
 
+##Command
+
+$ apt update
+
+$ apt upgrade
+
+$ pkg install git -y
+
+$ git clone https://github.com/Mehadi-Hasan-Shanto/Yt-Video-download.git
+
+$ cd Yt-Video-download
+
+$ bash install.sh
+
+
+
 
 
 
